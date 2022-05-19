@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/article-preview-component-built-with-html5-css3-and-vanilla-js-40Nh-qSlnA)
+- Live Site URL: (https://kaydengiang2512.github.io/Article_Preview_Component/)
 
 ## My process
 
